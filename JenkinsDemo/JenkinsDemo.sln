@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDemo", "JenkinsDemo.csproj", "{087B9833-110D-4F74-AAEA-01364A6782B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "..\TestProject2\TestProject2.csproj", "{2A072910-13E4-4B24-8723-8C7A81F79E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087B9833-110D-4F74-AAEA-01364A6782B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087B9833-110D-4F74-AAEA-01364A6782B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087B9833-110D-4F74-AAEA-01364A6782B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087B9833-110D-4F74-AAEA-01364A6782B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A072910-13E4-4B24-8723-8C7A81F79E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A072910-13E4-4B24-8723-8C7A81F79E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A072910-13E4-4B24-8723-8C7A81F79E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A072910-13E4-4B24-8723-8C7A81F79E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D6DD48-2078-4500-A34C-504F4C7674E1}
+	EndGlobalSection
+EndGlobal
